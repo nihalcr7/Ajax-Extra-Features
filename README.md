@@ -48,7 +48,7 @@
 * `DATABASE_URI`: [mongoDB](https://www.mongodb.com) URI. Get this value from [mongoDB](https://www.mongodb.com).
 * `DATABASE_NAME`: Name of the database in [mongoDB](https://www.mongodb.com). For more help watch this 
 * `LOG_CHANNEL` : A channel to log the activities of bot. Make sure bot is an admin in the channel.
-* `SUPPORT_CHAT` : @MWUpdatez
+* `SUPPORT_CHAT` : @nl_movies_owner_bot
 * `PICS`: Telegraph links of images to show in start message.( Multiple images can be used seperated by space )
 ### Optional Variables
 
@@ -110,5 +110,5 @@ python3 bot.py
 * /broadcast - to broadcast a message to all Ajax users
 ```
 
-<b>✮ 𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁 ›› [𝐀𝐚𝐝𝐡𝐢](https://t.me/Aadhi011)</b>                                                                                                                                                                                     
-<b>✮ 𝙲𝙷𝙰𝙽𝙽𝙴𝙻 ›› [𝐌𝐖 𝐔𝐩𝐝𝐚𝐭𝐞𝐳](https://t.me/MWUpdatez)</b>
+<b>✮ 𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁 ››[Nihal](https://t.me/Aadhi011)</b>                                                                                                                                                                                     
+<b>✮ 𝙲𝙷𝙰𝙽𝙽𝙴𝙻 ›>[NL Movies](https://t.me/MWUpdatez)</b>
